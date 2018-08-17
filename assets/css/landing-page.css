@@ -1,0 +1,29 @@
+.contentOne{
+	background-color: #f5f3f0;
+}
+.brownColor{
+	color: #a33049;
+}
+.lookPerfectWeight{
+	font-weight: 500;
+}
+.contentTwo{
+	background-color: white;
+}
+.latButton{
+	transform: translateY(43%);
+  border: 0px;
+  background-color: #a33049;
+  border-color: #a33049;
+  color: white;
+  font-weight: 600;
+  width: 9rem;
+  height: 34px;
+  cursor: pointer;
+  outline: 0 !important;
+}
+@media screen and (max-width: 472px){
+	.contentOneMobileSize{
+		font-size: 12px;
+	}
+}
